@@ -1,0 +1,46 @@
+{
+  "strapi": {
+    "attributes": {
+      "strapi-project": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": "WYSIWYG"
+      }
+    }
+  },
+  "strapiArticle": {
+    "attributes": {
+      "description": {
+        "appearance": "WYSIWYG"
+      }
+    }
+  },
+  "tag": {
+    "attributes": {
+      "label": {
+        "appearance": ""
+      }
+    }
+  },
+  "articles": {
+    "attributes": {
+      "article": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": "WYSIWYG"
+      }
+    }
+  },
+  "article": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": "WYSIWYG"
+      }
+    }
+  }
+}
